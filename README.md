@@ -1,61 +1,64 @@
-## Hi there 👋
-
-<!--
-**Rashmitha23/Rashmitha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-👋 Hi, Rashmitha Padmashetti
-I am a passionate Data Analyst and Machine Learning enthusiast who transforms complex data into actionable insights, leveraging algorithms to analyze trends, predict outcomes, and drive data-informed decision-making for impactful results.
-
-👨‍💻 All of my projects are available at
-https://github.com/Rashmitha23?tab=repositories
-
-👀 I’m interested in
-
-Data Science and Machine Learning
-Predictive Modeling and Statistical Analysis
-Data Visualization and Business Analyst
-Big Data Analytics
-
-🌱 I’m currently learning
-
-Snowflake, AI, Project Management, and Cloud Technologies
-Improving my skills in Python,R programming, MySQL and SQL
-Exploring NLP (Natural Language Processing) techniques
-
-💞️ I’m looking to collaborate on
-
-Data-driven projects, research, and analysis
-
-Machine learning and AI-driven solutions
-
-Real-time data analytics and visualization
 
 
+---
 
-📫 How to reach me
+## Hi there 👋  
+I'm **Rashmitha Padmashetti**, a passionate **Data Analyst** and **Machine Learning Enthusiast** dedicated to transforming complex datasets into actionable insights. My goal is to leverage advanced algorithms to analyze trends, predict outcomes, and enable data-driven decision-making for impactful results.  
 
-📧 Email : rashmithapadmashetti1819@gmail.com
+### 👨‍💻 Explore My Work  
+All of my projects are available on my GitHub: [**Rashmitha23**](https://github.com/Rashmitha23?tab=repositories)  
 
-🌐 LinkedIn: https://www.linkedin.com/in/rashmithapadmashetti/
+---
 
-⚡ Fun fact:
+### 👀 Areas of Interest  
+- **Data Science & Machine Learning**  
+- **Predictive Modeling & Statistical Analysis**  
+- **Data Visualization & Business Analytics**  
+- **Big Data Analytics**  
 
+---
 
+### 🌱 Currently Learning  
+- **Snowflake**, **AI**, **Project Management**, and **Cloud Technologies**  
+- Enhancing skills in **Python**, **R Programming**, **MySQL**, and **SQL**  
+- Exploring **Natural Language Processing (NLP)** techniques  
 
-🛠️ Technical Skills
+---
 
-Tools & Technologies: Python, R, MySQL, SQL, Jupyter Notebook, TensorFlow, Keras, Scikit-learn, Power BI, Tableau, Excel, NumPy, Pandas, Seaborn, Matplotlib, Plotly
+### 💞️ Open to Collaborate On  
+- **Data-Driven Projects**: Research, analytics, and insight generation  
+- **Machine Learning & AI Solutions**: From prototyping to production  
+- **Real-Time Data Analytics**: Advanced dashboards and interactive visualizations  
 
-Advanced Analytics & Modeling: Data Pre-processing, Predictive Modeling, Machine Learning, Deep Learning, Data Visualization, Business Intelligence
+---
+
+### 📫 Let's Connect  
+📧 **Email**: rashmithapadmashetti1819@gmail.com  
+🌐 **LinkedIn**: [**Rashmitha Padmashetti**](https://www.linkedin.com/in/rashmithapadmashetti/)  
+
+---
+
+### ⚡ Fun Fact  
+I'm a lifelong learner passionate about turning raw data into powerful stories.  
+
+---
+
+### 🛠️ Technical Skills  
+
+**Tools & Technologies**:  
+- **Programming**: Python, R, MySQL, SQL  
+- **Machine Learning Frameworks**: TensorFlow, Keras, Scikit-learn  
+- **Data Visualization**: Power BI, Tableau, Seaborn, Matplotlib, Plotly  
+- **Others**: Jupyter Notebook, Excel, NumPy, Pandas  
+
+**Core Competencies**:  
+- **Advanced Analytics & Modeling**: Data Pre-processing, Predictive Modeling, and Statistical Analysis  
+- **Machine Learning & Deep Learning**  
+- **Data Visualization**: Business Intelligence and storytelling with data  
+
+---
+
+Feel free to connect and collaborate! 🚀  
+
+---
 
