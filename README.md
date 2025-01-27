@@ -20,8 +20,8 @@ All of my projects are available on my GitHub: [**Rashmitha23**](https://github.
 
 ### 🌱 Currently Learning  
 - **Snowflake**, **AI**, **Project Management**, and **Cloud Technologies**  
-- Enhancing skills in **Python**, **R Programming**, **MySQL**, and **SQL**  
-- Exploring **Natural Language Processing (NLP)** techniques  
+- Improving proficiency in **Python**, **MySQL**, and **SQL**    
+- Exploring **Big Data** techniques  
 
 ---
 
@@ -46,15 +46,13 @@ I'm a lifelong learner passionate about turning raw data into powerful stories.
 ### 🛠️ Technical Skills  
 
 **Tools & Technologies**:  
-- **Programming**: Python, R, MySQL, SQL  
-- **Machine Learning Frameworks**: TensorFlow, Keras, Scikit-learn  
-- **Data Visualization**: Power BI, Tableau, Seaborn, Matplotlib, Plotly  
-- **Others**: Jupyter Notebook, Excel, NumPy, Pandas  
+- **Programming & ML Technologies**: Python, C, Java, Scikit Learn, TensorFlow, OpenCV, PyTorch
+- **Data Processing**: Pandas, NumPy, Feature Engineering, ETL, Data Preprocessing, Power Query
+- **Data Analytics & Visualization**: Data Modeling, Operations Analysis, Financial Modeling/Analysis, Dashboards, Storytelling with Data; Tools: Tableau, Power BI, Excel (advanced), Matplotlib, Seaborn, SAS
+- **Databases & Cloud**: PL/SQL, MySQL, NOSQL, Postgres, MongoDB, AWS, Snowflake
+- **Frameworks & Methodologies**: Flask, Django, CRISP-DM  
 
-**Core Competencies**:  
-- **Advanced Analytics & Modeling**: Data Pre-processing, Predictive Modeling, and Statistical Analysis  
-- **Machine Learning & Deep Learning**  
-- **Data Visualization**: Business Intelligence and storytelling with data  
+
 
 ---
 
