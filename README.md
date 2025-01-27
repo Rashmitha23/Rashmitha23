@@ -14,7 +14,7 @@ All of my projects are available on my GitHub: [**Rashmitha23**](https://github.
 - **Data Science & Machine Learning**  
 - **Predictive Modeling & Statistical Analysis**  
 - **Data Visualization & Business Analytics**  
-- **Big Data Analytics**  
+- **Big Data Analytics & Data Analysis**  
 
 ---
 
