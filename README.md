@@ -35,6 +35,7 @@ All of my projects are available on my GitHub: [**Rashmitha23**](https://github.
 ### 📫 Let's Connect  
 📧 **Email**: rashmithapadmashetti1819@gmail.com  
 🌐 **LinkedIn**: [**Rashmitha Padmashetti**](https://www.linkedin.com/in/rashmithapadmashetti/) 
+
 🌐 **Portfolio**: (https://rashmitha23.github.io/Rashmitha_Padmashetti/)
 
 ---
