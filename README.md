@@ -26,7 +26,9 @@ Data Science and Machine Learning
 Predictive Modeling and Statistical Analysis
 Data Visualization and Business Analyst
 Big Data Analytics
+
 🌱 I’m currently learning
+
 Snowflake, AI, Project Management, and Cloud Technologies
 Improving my skills in Python,R programming, MySQL and SQL
 Exploring NLP (Natural Language Processing) techniques
