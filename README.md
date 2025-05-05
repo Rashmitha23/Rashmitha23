@@ -18,11 +18,7 @@ All of my projects are available on my GitHub: [**Rashmitha23**](https://github.
 
 ---
 
-### 🌱 Currently Learning  
-- **Snowflake**, **AI**, **Project Management**, and **Cloud Technologies**    
-- Exploring **Big Data** techniques  
 
----
 
 ### 💞️ Open to Collaborate On  
 - **Data-Driven Projects**: Research, analytics, and insight generation  
