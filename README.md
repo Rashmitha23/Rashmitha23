@@ -42,11 +42,11 @@ I'm a lifelong learner passionate about turning raw data into powerful stories.
 ### 🛠️ Technical Skills  
 
 **Tools & Technologies**:  
-- **Programming & ML Technologies**: Python, C, Java, Scikit Learn, TensorFlow, OpenCV, PyTorch
-- **Data Processing**: Pandas, NumPy, Feature Engineering, ETL, Data Preprocessing, Power Query
-- **Data Analytics & Visualization**: Data Modeling, Operations Analysis, Financial Modeling/Analysis, Dashboards, Storytelling with Data; Tools: Tableau, Power BI, Excel (advanced), Matplotlib, Seaborn, SAS
-- **Databases & Cloud**: PL/SQL, MySQL, NOSQL, Postgres, MongoDB, AWS, Snowflake
-- **Frameworks & Methodologies**: Flask, Django, CRISP-DM  
+Programming & Development: Python, SQL, PostgreSQL, C, Flask, PySpark, Apache Spark.
+Machine Learning & AI: Scikit-learn, TensorFlow, OpenCV, XGBoost, PyTorch, Transformers, LLMs, Langchain, Gen AI
+Data Analysis & Visualization: Matplotlib, Seaborn, Power BI, Tableau, MS Excel, SAS
+Big Data & Cloud Platforms: MongoDB, Hadoop, Snowflake, Azure Databricks, Google Cloud Platform, Sagemaker, Docker
+  
 
 
 
